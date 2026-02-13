@@ -8,11 +8,10 @@
 
 El Anta Knob utiliza **VIA**, el estándar de la industria para periféricos custom. No necesitás instalar ningún software en tu PC; todo se configura desde el navegador.
 
-### 📥 Paso 1: Descargar el Mapa
+### 📥 Paso 1: Descargar el json
 Necesitás el archivo de configuración para que VIA reconozca tu dispositivo.
 
-👉 **[Hacé click acá para descargar el archivo .json](https://raw.githubusercontent.com/Antarestai/AntaKnob/refs/heads/main/antaknob/knob_via.json)** *(Si se abre como texto: Hacé Click Derecho > "Guardar como..." y guardalo en tu PC)*
-
+👉 [![⬇️ Descargar JSON](https://img.shields.io/badge/⬇️%20Descargar%20JSON-knob_via.json-purple?style=for-the-badge&logo=json)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Antarestai/AntaKnob-Instrucciones/blob/main/knob_via.json)
 ---
 
 ### ⚙️ Paso 2: Configurar en VIA
@@ -39,7 +38,7 @@ El Anta Knob incluye efectos exclusivos RGB. Podés cambiarlos desde la pestaña
 
 ¿Tenés alguna duda o problema?
 Contactame por Discord: **antarestai**
-[![⬇️ Descargar JSON](https://img.shields.io/badge/⬇️%20Descargar%20JSON-knob_via.json-purple?style=for-the-badge&logo=json)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Antarestai/AntaKnob-Instrucciones/blob/main/knob_via.json)
+
 ---
 *Diseñado y Fabricado por Antares.*
 
