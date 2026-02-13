@@ -34,7 +34,7 @@ Necesitás el archivo de configuración para que VIA reconozca tu dispositivo.
 
 ### ⚙️ Paso 2: Cargar en VIA
 
-1.  **Conectá** tu Anta Knob a la PC usando el cable USB-C.
+1.  **Conectá** tu Anta Knob a la PC usando el cable USB-C. (El cable debe ser también de datos)
 2.  Ingresá a **[usevia.app](https://usevia.app)** (usar Google Chrome o Edge).
 3.  Hacé click en el ícono de **Settings** (⚙️) arriba a la derecha.
 4.  Activá la opción **"Show Design Tab"**.
