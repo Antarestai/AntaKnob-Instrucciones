@@ -40,6 +40,29 @@ El Anta Knob incluye efectos exclusivos RGB. Podés cambiarlos desde la pestaña
 ¿Tenés alguna duda o problema?
 Contactame por Discord: **antarestai**
 
+<button onclick="descargarDelGitHub()">Descargar knob_via.json</button>
+
+<script>
+async function descargarDelGitHub() {
+  const url = 'https://api.github.com/repos/Antarestai/AntaKnob-Instrucciones/contents/knob_via.json?ref=main';
+  
+  try {
+    const response = await fetch(url);
+    const data = await response.json();
+    const content = atob(data.content); // Decodifica base64
+    
+    // Crear descarga
+    const blob = new Blob([content], { type: 'application/json' });
+    const link = document.createElement('a');
+    link.href = URL.createObjectURL(blob);
+    link.download = 'knob_via.json';
+    link.click();
+  } catch (error) {
+    console.error('Error:', error);
+  }
+}
+</script>
+
 ---
 *Diseñado y Fabricado por Antares.*
 
