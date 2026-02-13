@@ -12,6 +12,8 @@ El Anta Knob utiliza **VIA**, el estándar de la industria para periféricos cus
 Necesitás el archivo de configuración para que VIA reconozca tu dispositivo.
 
 👉 [![⬇️ Descargar JSON](https://img.shields.io/badge/⬇️%20Descargar%20JSON-knob_via.json-purple?style=for-the-badge&logo=json)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Antarestai/AntaKnob-Instrucciones/blob/main/knob_via.json)
+
+
 ---
 
 ### ⚙️ Paso 2: Configurar en VIA
@@ -21,7 +23,7 @@ Necesitás el archivo de configuración para que VIA reconozca tu dispositivo.
 3.  Hacé click en el ícono de **Settings** (⚙️) arriba a la derecha.
 4.  Activá la opción **"Show Design Tab"**.
 5.  Hacé click en el ícono de **Design** (🖌️) que apareció a la izquierda.
-6.  Hacé click en cargar y subi el archivo `.json` que descargaste.
+6.  Hacé click en cargar y subi el archivo `.json` que descargaste y descomprimiste del rar.
 7.  Vincula el AntKnob.
 
 ¡Listo! 🎉 Ahora deberías ver el diseño del Anta Knob en pantalla y podrás modificar las luces y funciones.
@@ -41,20 +43,5 @@ Contactame por Discord: **antarestai**
 
 ---
 *Diseñado y Fabricado por Antares.*
-
-> [📥 **Descargar knob_via.json**](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Antarestai/AntaKnob-Instrucciones/blob/main/knob_via.json)
-
-<div align="center">
-  <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Antarestai/AntaKnob-Instrucciones/blob/main/knob_via.json">
-    <img src="https://img.shields.io/badge/DESCARGAR-knob_via.json-blueviolet?style=for-the-badge&logo=download" alt="Descargar">
-  </a>
-</div>
-
-
-[![⬇️ Descargar JSON](https://img.shields.io/badge/⬇️%20Descargar%20JSON-knob_via.json-purple?style=for-the-badge&logo=json)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Antarestai/AntaKnob-Instrucciones/blob/main/knob_via.json)
-
-[![Descargar Configuración](https://img.shields.io/badge/Descargar%20Configuraci%C3%B3n-knob_via.json-brightgreen?style=for-the-badge&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Antarestai/AntaKnob-Instrucciones/blob/main/knob_via.json)
-
-[![Descargar knob_via.json](https://img.shields.io/badge/📥%20Descargar-knob_via.json-blue?style=for-the-badge)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Antarestai/AntaKnob-Instrucciones/blob/main/knob_via.json)
 
 
